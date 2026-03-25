@@ -17,16 +17,17 @@ Before that, I graduated from HCMC University of Technology and Education and wo
     - Computational Imaging Laboratory (CILab).
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
     - Supervisor: Associate Professor Chul Lee.
+<br><br/>
 - **Data Scientist**, Aug. 2025 – Oct. 2025
     - Data Team - FTEL Sandbox Department.
     - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
     - Summary: Research, read papers, implement models, improve and optimize, focusing on Natural Language Processing. Focus on Deep Learning architectures and models for log data (syslog). Implement Deep Learning architectures to analyze log semantics and focus on tasks such as incident prediction and abnormal log detection. Focus on Deep Learning network architectures based on Transformer and BERT, such as LogBERT.
-
+<br><br/>
 - **Software Engineering Intern**, , May. 2023 – Aug. 2023
     - EBS.RTM Team.
     - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
     - Summary: Worked as a full-stack software engineer. Developed, maintained, and optimized backend systems, including APIs for both web platforms and mobile applications. Implemented user interfaces for web application pages based on design specifications.
-
+<br><br/>
 - **Research Assistant**, May. 2023 – Aug. 2023
     - Artificial Intelligence & Intelligent Systems Laboratory (now is Computer Vision & Intelligent Systems Laboratory CVISLab).
     - Faculty of Information Technology, HCMUTE.
@@ -39,19 +40,19 @@ Before that, I graduated from HCMC University of Technology and Education and wo
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
     - **Scholarship for Research and Development (SRD)**
     - Supervisor: Associate Professor Chul Lee.
-
+<br><br/>
 - **Bachelor of Engineering (B.Eng.)**, Information Technology, Aug. 2025
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - **Admitted through early and priority admission.**
     - Degree classification: Distinction.
     - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems.
     - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
-<br>
+<br><br/>
 - **High School Diploma** , May. 2021
     - Nguyen Duy Hieu High School, Quang Nam province, Vietnam.
     - Member of the school's gifted Biology team.
     - The second prize at the provincial-level gifted student competition.
-<br>
+<br><br/>
 - **Secondary School Diploma** , May. 2021
     - Tran Quy Cap Secondary School, Quang Nam province, Vietnam.
     - Member of the school's gifted Chemistry team.
@@ -76,10 +77,10 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 
 Year | Category | Award
 -----|-------|--------
-2025 | Award  | **Best Thesis Award, High-Quality Program**
+2025 | Award  | **Best Thesis Award, High-Quality Program** (Overall score: 9.6/10)
 2025 | Award | **Outstanding Student in Scientific Research**
 2025 | Certificate | Certificate of Presentation, The RAVTE International Student Workshop
-2024 | Award | **Outstanding Student Scientific Research Project Award**
+2024 | Award | **Outstanding Student Scientific Research Project Award** (Overall score: 284/300)
 2024 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
 2024 | Certificate | Certificate of Presentation, International Conference on Green Technology and Sustainable Development
 2023 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
