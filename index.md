@@ -13,13 +13,15 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
     - Computational Imaging Laboratory (CILab).
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
     - Supervisor: Associate Professor Chul Lee.
-- **Data Scientist**, Aug. 2025 – Oct. 2025
-    - Data Team - FTEL Sandbox Department.
-    - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
-- **Data Scientist**, Aug. 2025 – Oct. 2025
-    - Data Team - FTEL Sandbox Department.
-    - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
 
+- **Data Scientist**, Aug. 2025 – Oct. 2025
+    - Data Team - FTEL Sandbox Department.
+    - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
+<br>
+- **Data Scientist**, Aug. 2025 – Oct. 2025
+    - Data Team - FTEL Sandbox Department.
+    - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
+<br>
 - **Software Engineering Intern**, , May. 2023 – Aug. 2023
     - EBS.RTM Team.
     - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
@@ -57,10 +59,10 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 Year | Category | Award
 -----|-------|--------
-2025 | Award  | **Best Thesis Award, High-Quality Program**
+2025 | Award  | **Best Thesis Award, High-Quality Program** (Overall score: 9.6/10)
 2025 | Award | **Outstanding Student in Scientific Research**
 2025 | Certificate | Certificate of Presentation, The RAVTE International Student Workshop
-2024 | Award | **Outstanding Student Scientific Research Project Award**
+2024 | Award | **Outstanding Student Scientific Research Project Award** (Overall score: 284/300)
 2024 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
 2024 | Certificate | Certificate of Presentation, International Conference on Green Technology and Sustainable Development
 2023 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
