@@ -13,19 +13,15 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
     - Computational Imaging Laboratory (CILab).
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
     - Supervisor: Associate Professor Chul Lee.
-
+<br><br/>
 - **Data Scientist**, Aug. 2025 – Oct. 2025
     - Data Team - FTEL Sandbox Department.
     - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
-<br>
-- **Data Scientist**, Aug. 2025 – Oct. 2025
-    - Data Team - FTEL Sandbox Department.
-    - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
-<br>
+<br><br/>
 - **Software Engineering Intern**, , May. 2023 – Aug. 2023
     - EBS.RTM Team.
     - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
-
+<br><br/>
 - **Research Assistant**, May. 2023 – Aug. 2023
     - Artificial Intelligence & Intelligent Systems Laboratory (AISLab).
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
