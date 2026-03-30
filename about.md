@@ -61,6 +61,7 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 
 ## Research Interest
 - Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
+- Data Science, Machine Learning, Deep Learning
 - Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
 
 

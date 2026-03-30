@@ -39,8 +39,8 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 ## Research Interest
 - Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
+- Data Science, Machine Learning, Deep Learning
 - Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
-
 
 ## Publications
 
@@ -55,6 +55,7 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 
 ## Scientific Awards  & Certificate
+
 Year | Category | Award
 -----|-------|--------
 2025 | Award  | **Best Thesis Award, High-Quality Program** (Overall score: 9.6/10)
