@@ -61,7 +61,7 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 
 ## Research Interest
 - Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
-- Data Science, Machine Learning, Deep Learning
+- Data Science, Machine Learning, Deep Learning.
 - Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
 
 
@@ -93,13 +93,13 @@ Year | Category | Award
 ## Technical Skills
 
 - Areas: Data Science, Machine Learning, Deep Learning.
-- Specializations: Computer Vision, Image Processing, NLP
-- Programming Languages: Python, Golang, SQL
-- Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git
+- Specializations: Computer Vision, Image Processing, NLP.
+- Programming Languages: Python, Golang, SQL.
+- Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git.
 
 
 ## Referees
 - Dr. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
-    - Associate Professor, Vice Dean of Faculty of Information Technology
+    - Associate Professor, Vice Dean of Faculty of Information Technology.
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - Email: dunghv@hcmute.edu.vn

@@ -75,9 +75,9 @@ Year | Category | Award
 ## Technical Skills
 
 - Areas: Data Science, Machine Learning, Deep Learning.
-- Specializations: Computer Vision, Image Processing, NLP
-- Programming Languages: Python, Golang, SQL
-- Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git
+- Specializations: Computer Vision, Image Processing, NLP.
+- Programming Languages: Python, Golang, SQL.
+- Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git.
 
 <!-- - Algorithms: k-NN, Linear/ Logistic Regression, Decision Tree, Random Forest, Naive Bayes
 - Models: MLP, NN, CNN, RNN, LSTM, Transformer, v.v
@@ -87,6 +87,6 @@ Year | Category | Award
 
 ## Referees
 - Dr. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
-    - Associate Professor, Vice Dean of Faculty of Information Technology
+    - Associate Professor, Vice Dean of Faculty of Information Technology.
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - Email: dunghv@hcmute.edu.vn
