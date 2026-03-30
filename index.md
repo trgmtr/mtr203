@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="favicon.jpg">
+<img class="profile-picture" src="mtr203.jpg">
 
 Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated student in Computer Science and Engineering (CSE) in the [Department of Computer Science and Artificial Intelligence (Dept. CSAI)](https://cse.dongguk.edu/main) at [Dongguk University](http://www.dongguk.ac.kr/), Seoul, South Korea. I am also a Research Assistant at the [Computational Imaging Lab. (CILab)](https://cilab.dongguk.edu/) under the supervision of [Prof. Chul Lee](https://cilab.dongguk.edu/cv.html).
 
