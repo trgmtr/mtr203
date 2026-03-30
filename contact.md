@@ -5,17 +5,18 @@ is_contact: true
 
 * Email: [trieutm.hcmute@gmail.com](mailto:trieutm.hcmute@gmail.com)
 
-* Phone: [(+84)-349.470.501](tel:(+84)-349.470.501)
-
+* Phone:
+- VN: [(+84) 349.470.501](tel:(+84) 349.470.501)
+- KR: [(+010) 9839.2906](tel:(+010) 9839.2906)
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 6032 Engineering Building II
 >
-> London
+> Dongguk University
 >
-> United Kingdom
+> 04620 Seoul, Korea
 
 ---
 

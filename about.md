@@ -4,7 +4,8 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="favicon.jpg">
+<!-- <img class="profile-picture" src="favicon.jpg"> -->
+<img class="profile-picture" src="mtr203.jpg">
 
 Hi! My name is Truong Minh Trieu. I was born in 2003 in Dien Ban, Quang Nam Province (now Dien Ban Tay Commune, Da Nang City). 
 
@@ -56,11 +57,12 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 - **Secondary School Diploma** , May. 2021
     - Tran Quy Cap Secondary School, Quang Nam province, Vietnam.
     - Member of the school's gifted Chemistry team.
+    
 
 ## Research Interest
-
 - Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
-- Medical Image Processing, Medical Information Retrieval, Neural Machine Translation. 
+- Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
+
 
 ## Publications
 
@@ -71,7 +73,8 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 
 ### Conference Papers
 2. **Truong Minh Trieu**, Hoang Van Dung, & Le Thi Minh Chau: [Skeleton-Based Posture estimation for human action recognition using deep learning](https://doi.org/10.1007/978-3-031-76197-3_8), in Proc. International Conference on Green Technology and Sustainable Development.
-3. **Truong Minh Trieu**, Hoang Van Dung, & Le Cong Hieu: [Automatic recognition and scoring system In military training applies modern deep learning techniques](https://doi.org/10.1007/978-3-032-01472-6_15), in Proc. EAI International Conference on Smart Objects and Technologies for Social Good. 
+3. **Truong Minh Trieu**, Hoang Van Dung, & Le Cong Hieu: [Automatic recognition and scoring system In military training applies modern deep learning techniques](https://doi.org/10.1007/978-3-032-01472-6_15), in Proc. EAI International Conference on Smart Objects and Technologies for Social Good.
+
 
 ## Scientific Awards  & Certificate
 
@@ -85,32 +88,14 @@ Year | Category | Award
 2024 | Certificate | Certificate of Presentation, International Conference on Green Technology and Sustainable Development
 2023 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
 
-## Technical Skills
 
+## Technical Skills
 - Programming Languages: Python, Golang (Entry Level), SQL, Apache Hive
 - Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git
 
-<!-- ## Typography
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little -->
-
-## References
-
-* Van-Dung Hoang: Associate Professor, Vice Dean of Faculty of Information Technology, HCMC University of Technology and Education.
-
-
-*This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)*
-
-
-<!-- * Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum -->
+## Referees
+- Dr. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
+    - Associate Professor, Vice Dean of Faculty of Information Technology
+    - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
+    - Email: dunghv@hcmute.edu.vn
