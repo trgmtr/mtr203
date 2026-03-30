@@ -21,18 +21,18 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 - **Data Scientist**, Aug. 2025 – Oct. 2025
     - Data Team - FTEL Sandbox Department.
     - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
-    - Summary: Research, read papers, implement models, improve and optimize, focusing on Natural Language Processing. Focus on Deep Learning architectures and models for log data (syslog). Implement Deep Learning architectures to analyze log semantics and focus on tasks such as incident prediction and abnormal log detection. Focus on Deep Learning network architectures based on Transformer and BERT, such as LogBERT.
+    - Summary: Read papers, implement models, improve and optimize, focusing on Language Processing. Focus on Deep Learning network architectures based on Transformer and BERT for log data (syslog). Implement Deep Learning architectures to analyze log semantics and focus on tasks such as incident prediction and abnormal log detection.
 <br><br/>
-- **Software Engineering Intern**, , May. 2023 – Aug. 2023
-    - EBS.RTM Team.
-    - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
-    - Summary: Worked as a full-stack software engineer. Developed, maintained, and optimized backend systems, including APIs for both web platforms and mobile applications. Implemented user interfaces for web application pages based on design specifications.
-<br><br/>
-- **Research Assistant**, May. 2023 – Aug. 2023
+- **Research Assistant**, May. 2023 – Aug. 2025
     - Artificial Intelligence & Intelligent Systems Laboratory (now is Computer Vision & Intelligent Systems Laboratory CVISLab).
     - Faculty of Information Technology, HCMUTE.
     - Supervisor: Associate Professor Dr. Van-Dung Hoang.
     - Summary: Research, developed and optimized model architectures in Computer Vision and Natural Language Processing for Vision/Language tasks.
+<br><br/>
+- **Software Engineering Intern**, , May. 2023 – Aug. 2023
+    - EBS.RTM Team.
+    - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
+    - Summary: Worked as a Full-Stack Software Engineer. Developed, maintained, and optimized backend systems, including APIs for both web platforms and mobile applications. Implemented user interfaces for web application pages based on design specifications.
 
 
 ## Education

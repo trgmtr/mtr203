@@ -22,5 +22,5 @@ is_contact: true
 ## Social
 
 1. [LinkedIn](www.linkedin.com/in/trieutr)
-2. [Twitter](#)
-3. [Google+](#)
+<!-- 2. [Twitter](#) -->
+<!-- 3. [Google+](#) -->

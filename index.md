@@ -18,14 +18,14 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
     - Data Team - FTEL Sandbox Department.
     - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
 <br><br/>
-- **Software Engineering Intern**, , May. 2023 – Aug. 2023
-    - EBS.RTM Team.
-    - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
-<br><br/>
-- **Research Assistant**, May. 2023 – Aug. 2023
+- **Research Assistant**, May. 2023 – Aug. 2025
     - Artificial Intelligence & Intelligent Systems Laboratory (AISLab).
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - Supervisor: Associate Professor Dr. Van-Dung Hoang.
+<br><br/>
+- **Software Engineering Intern**, , May. 2023 – Aug. 2023
+    - EBS.RTM Team.
+    - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
 
 
 ## Education
@@ -84,7 +84,7 @@ Here is a blockquote
 
 ## Referees
 
-* Van-Dung Hoang: Associate Professor, PhD., Vice Dean of Faculty of Information Technology, HCMC University of Technology and Education.
+* [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao): Associate Professor, PhD., Vice Dean of Faculty of Information Technology, HCMC University of Technology and Education.
 
 
 *This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)*
