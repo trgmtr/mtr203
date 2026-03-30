@@ -91,7 +91,10 @@ Year | Category | Award
 
 
 ## Technical Skills
-- Programming Languages: Python, Golang (Entry Level), SQL, Apache Hive
+
+- Areas: Data Science, Machine Learning, Deep Learning.
+- Specializations: Computer Vision, Image Processing, NLP
+- Programming Languages: Python, Golang, SQL
 - Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git
 
 

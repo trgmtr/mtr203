@@ -8,7 +8,9 @@ layout: default
 
 Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated student in Computer Science and Engineering (CSE) in the [Department of Computer Science and Artificial Intelligence (Dept. CSAI)](https://cse.dongguk.edu/main) at [Dongguk University](http://www.dongguk.ac.kr/), Seoul, South Korea. I am also a Research Assistant at the [Computational Imaging Lab. (CILab)](https://cilab.dongguk.edu/) under the supervision of [Prof. Chul Lee](https://cilab.dongguk.edu/cv.html).
 
+
 ## Work Experience
+
 - **Master’s Researcher**, Mar. 2026 -
     - Computational Imaging Laboratory (CILab).
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
@@ -29,6 +31,7 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 
 ## Education
+
 - **Bachelor of Engineering (B.Eng.)**, Information Technology, Aug. 2025
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - **Admitted through early and priority admission.**
@@ -38,9 +41,11 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 
 ## Research Interest
+
 - Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
-- Data Science, Machine Learning, Deep Learning
+- Data Science, Machine Learning, Deep Learning.
 - Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
+
 
 ## Publications
 
@@ -68,8 +73,16 @@ Year | Category | Award
 
 
 ## Technical Skills
-- Programming Languages: Python, Golang (Entry Level), SQL, Apache Hive
+
+- Areas: Data Science, Machine Learning, Deep Learning.
+- Specializations: Computer Vision, Image Processing, NLP
+- Programming Languages: Python, Golang, SQL
 - Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git
+
+<!-- - Algorithms: k-NN, Linear/ Logistic Regression, Decision Tree, Random Forest, Naive Bayes
+- Models: MLP, NN, CNN, RNN, LSTM, Transformer, v.v
+- Architectures: VGGNet, ResNet, UNET, DeepLabv3+, Faster R-CNN, Mask R-CNN, BERT
+- Soft: Skills Problem-Solving, Solution-Oriented Attitude, Communication, Presentation -->
 
 
 ## Referees
