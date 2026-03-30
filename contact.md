@@ -5,9 +5,10 @@ is_contact: true
 
 * Email: [trieutm.hcmute@gmail.com](mailto:trieutm.hcmute@gmail.com)
 
-* Phone:
+- Phone:
     - VN: [(+84) 349.470.501](tel:(+84) 349.470.501)
     - KR: [(+010) 9839.2906](tel:(+010) 9839.2906)
+
 ---
 
 ### Address
