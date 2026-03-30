@@ -39,7 +39,7 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 ## Education
 - **Master’s and Ph.D Integrated student**, Computer Science and Engineering major, Mar. 2026 -
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
-    - **Scholarship for Research and Development (SRD)**
+    - **Scholarship for Research and Development (SRD).**
     - Supervisor: Associate Professor Chul Lee.
 <br><br/>
 - **Bachelor of Engineering (B.Eng.)**, Information Technology, Aug. 2025
@@ -54,7 +54,7 @@ Before that, I graduated from HCMC University of Technology and Education and wo
     - Member of the school's gifted Biology team.
     - The second prize at the provincial-level gifted student competition.
 <br><br/>
-- **Secondary School Diploma** , May. 2021
+- **Secondary School Diploma** , June. 2018
     - Tran Quy Cap Secondary School, Quang Nam province, Vietnam.
     - Member of the school's gifted Chemistry team.
     
