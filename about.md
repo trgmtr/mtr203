@@ -54,7 +54,7 @@ Before that, I graduated from HCMC University of Technology and Education and wo
     - Member of the school's gifted Biology team.
     - The second prize at the provincial-level gifted student competition.
 <br><br/>
-- **Secondary School Diploma** , May. 2021
+- **Secondary School Diploma** , June. 2018
     - Tran Quy Cap Secondary School, Quang Nam province, Vietnam.
     - Member of the school's gifted Chemistry team.
     
