@@ -33,6 +33,7 @@ hr {
  * Navbar
  */
 
+ h-1 w-full
 #author-name {
     font-size: 30px;
     color: #272727;
@@ -64,6 +65,10 @@ hr {
 }
 
 /* Divs */
+.hero-gradient {
+    background: linear-gradient(135deg, #E8F4F9 0%, #fff 50%, #FBCFCA 100%);
+    
+}
 
 .container {
     // max-width: $max-width;
@@ -130,6 +135,67 @@ hr {
 	#navlist li.nav-list {
 		margin: 0;
 	}
+}
+
+.publications {
+    margin-top: 1.5rem;
+}
+
+.publication-category {
+    margin: 0.5rem 0 0.8rem;
+    font-size: 1.2rem;
+    color: #024b74;
+    // border-left: 4px solid #3AC1F6;
+    padding-left: 0.8rem;
+}
+
+.pub-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1rem;
+}
+
+.pub-card {
+    border: 1px solid rgba(0,0,0,.08);
+    border-radius: 10px;
+    padding: 1rem;
+    background: rgba(255,255,255,0.92);
+    box-shadow: 0 2px 12px rgba(0,0,0,.05);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.pub-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0,0,0,.12);
+}
+
+.pub-title {
+    margin: 0 0 0.5rem;
+    font-size: 1.03rem;
+    line-height: 1.3;
+}
+
+.pub-authors,
+.pub-journal,
+.pub-meta {
+    margin: 0.25rem 0;
+    color: #3f4e5a;
+    font-size: 0.95rem;
+}
+
+.pub-meta {
+    font-size: 0.85rem;
+    color: #676f78;
+}
+
+.pub-link {
+    color: #0079c2;
+}
+
+@media (max-width: 700px) {
+    .pub-card {
+        padding: 0.9rem;
+    }
 }
 
 @import "typography";
