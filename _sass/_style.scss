@@ -9,19 +9,25 @@ html {
     margin: 0;
     padding: 0;
 }
+
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    // font-family: "Inconsolata";
+    font-family: "Nunito", sans-serif;
+    // font-family: "Saira", sans-serif;
     height: 100%;
     line-height: 1.5;
 }
+
 a {
     text-decoration: none;
     color: $accent;
 }
+
 a:hover {
     text-decoration: underline;
 }
+
 hr {
     border: 0;
     height: 0;
@@ -33,32 +39,46 @@ hr {
  * Navbar
  */
 
- h-1 w-full
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #000000e6 !important;
+}
+
 #author-name {
     font-size: 30px;
     color: #272727;
     display: inline-block;
 }
+
 .navbar {
     padding: 50px 0 50px 0;
 }
+
 .navbar-ul {
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
     margin-left: 20px;
 }
+
 .nav-list {
     list-style-type: none;
     margin: 0 5px 0 10px;
 }
+
 .alignable {
     display: inline-block;
 }
+
 .pull-left {
     @extend .alignable;
     float: left;
 }
+
 .pull-right {
     @extend .alignable;
     float: right;
@@ -67,17 +87,18 @@ hr {
 /* Divs */
 .hero-gradient {
     background: linear-gradient(135deg, #E8F4F9 0%, #fff 50%, #FBCFCA 100%);
-    
+
 }
 
 .container {
     // max-width: $max-width;
     margin: auto;
-    
+
     // max-width: 900px;
     margin: auto;
     margin: 0 22px;
 }
+
 .wrapper {
     min-height: 100%;
 }
@@ -85,10 +106,10 @@ hr {
 /* Institute Image */
 
 #ins-logo {
-	margin: auto;
-	display: block;
-	max-height: 100px;
-	text-align: center;
+    margin: auto;
+    display: block;
+    max-height: 100px;
+    text-align: center;
 }
 
 /* Mobile */
@@ -104,37 +125,43 @@ hr {
     .container {
         max-width: 83%;
     }
+
     .navbar-ul {
         margin-top: 5px;
     }
 }
 
 @media (max-width: 500px) {
-	.navbar {
-		text-align: center;
-		padding: 50px 0px 0px 0px;
-	}
-	#author-name {
-		width: 100%;
-		float: none;
-	}
-	#navlist {
-		padding: 10px 0 10px 0;
-		margin: 0;
-		display: block;
-		float: none;
-		text-align: center;
-		width: 100%;
-	}
-	#navlist li.alignable {
-		display: inline-block;
-	}
-	#navlist li.pull-left {
-		float: none;
-	}
-	#navlist li.nav-list {
-		margin: 0;
-	}
+    .navbar {
+        text-align: center;
+        padding: 50px 0px 0px 0px;
+    }
+
+    #author-name {
+        width: 100%;
+        float: none;
+    }
+
+    #navlist {
+        padding: 10px 0 10px 0;
+        margin: 0;
+        display: block;
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+
+    #navlist li.alignable {
+        display: inline-block;
+    }
+
+    #navlist li.pull-left {
+        float: none;
+    }
+
+    #navlist li.nav-list {
+        margin: 0;
+    }
 }
 
 .publications {
@@ -146,7 +173,7 @@ hr {
     font-size: 1.2rem;
     color: #024b74;
     // border-left: 4px solid #3AC1F6;
-    padding-left: 0.8rem;
+    // padding-left: 0.8rem;
 }
 
 .pub-grid {
@@ -156,17 +183,17 @@ hr {
 }
 
 .pub-card {
-    border: 1px solid rgba(0,0,0,.08);
+    border: 1px solid rgba(0, 0, 0, .08);
     border-radius: 10px;
     padding: 1rem;
-    background: rgba(255,255,255,0.92);
-    box-shadow: 0 2px 12px rgba(0,0,0,.05);
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    background: rgba(255, 255, 255, 0.92);
+    // box-shadow: 0 2px 12px rgba(0,0,0,.05);
+    // transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .pub-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 6px 18px rgba(0,0,0,.12);
+    // box-shadow: 0 6px 18px rgba(0,0,0,.12);
 }
 
 .pub-title {
@@ -189,7 +216,7 @@ hr {
 }
 
 .pub-link {
-    color: #0079c2;
+    color: #676f78;
 }
 
 @media (max-width: 700px) {

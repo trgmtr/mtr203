@@ -9,73 +9,75 @@ layout: default
 
 Hi! My name is Truong Minh Trieu. I was born in 2003 in Dien Ban, Quang Nam Province (now Dien Ban Tay Commune, Da Nang City). 
 
-Currently, I am a Master's and Ph.D Integrated student in Computer Science and Engineering (CSE) in the [Department of Computer Science and Artificial Intelligence (Dept. CSAI)](https://cse.dongguk.edu/main) at [Dongguk University](http://www.dongguk.ac.kr/), Seoul, South Korea. I am also a Research Assistant at the [Computational Imaging Lab. (CILab)](https://cilab.dongguk.edu/) under the supervision of [Prof. Chul Lee](https://cilab.dongguk.edu/cv.html).
+Currently, I am a Master's and Ph. D Integrated student in Computer Science and Engineering (CSE) in the [Department of Computer Science and Artificial Intelligence (Dept. CSAI)](https://cse.dongguk.edu/main) at [Dongguk University](http://www.dongguk.ac.kr/), Seoul, South Korea. I am also a Research Assistant at the [Computational Imaging Lab. (CILab)](https://cilab.dongguk.edu/) under the supervision of [Prof. Chul Lee](https://cilab.dongguk.edu/cv.html).
 
 Before that, I graduated from HCMC University of Technology and Education and worked as a Data Scientist at FPT Telecom Hanoi.
 
 ## Work Experience
-- **Master’s Researcher**, Mar. 2026 -
+
+* **Master’s Researcher**, Mar. 2026 -
     - Computational Imaging Laboratory (CILab).
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
     - Supervisor: Associate Professor Chul Lee.
 <br><br/>
-- **Data Scientist**, Aug. 2025 – Oct. 2025
+* **Data Scientist**, Aug. 2025 – Oct. 2025
     - Data Team - FTEL Sandbox Department.
     - FPT Telecom, FPT Corporation, Ha Noi city, Vietnam.
     - Summary: Read papers, implement models, improve and optimize, focusing on Language Processing. Focus on Deep Learning network architectures based on Transformer and BERT for log data (syslog). Implement Deep Learning architectures to analyze log semantics and focus on tasks such as incident prediction and abnormal log detection.
 <br><br/>
-- **Research Assistant**, May. 2023 – Aug. 2025
+* **Research Assistant**, May. 2023 – Aug. 2025
     - Artificial Intelligence & Intelligent Systems Laboratory (now is Computer Vision & Intelligent Systems Laboratory CVISLab).
     - Faculty of Information Technology, HCMUTE.
     - Supervisor: Associate Professor Dr. Van-Dung Hoang.
     - Summary: Research, developed and optimized model architectures in Computer Vision and Natural Language Processing for Vision/Language tasks.
 <br><br/>
-- **Software Engineering Intern**, , May. 2023 – Aug. 2023
+* **Software Engineering Intern**, , May. 2023 – Aug. 2023
     - EBS.RTM Team.
     - FPT Software, FPT Corporation, Ho Chi Minh city, Vietnam.
     - Summary: Worked as a Full-Stack Software Engineer. Developed, maintained, and optimized backend systems, including APIs for both web platforms and mobile applications. Implemented user interfaces for web application pages based on design specifications.
 
-
 ## Education
-- **Master’s and Ph.D Integrated student**, Computer Science and Engineering major, Mar. 2026 -
+
+* **Master’s and Ph. D Integrated student**, Computer Science and Engineering major, Mar. 2026 -
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
     - **Scholarship for Research and Development (SRD).**
     - Supervisor: Associate Professor Chul Lee.
 <br><br/>
-- **Bachelor of Engineering (B.Eng.)**, Information Technology, Aug. 2025
+* **Bachelor of Engineering (B. Eng.)**, Information Technology, Aug. 2025
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - **Admitted through early and priority admission.**
     - Degree classification: Distinction.
     - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems.
     - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
 <br><br/>
-- **High School Diploma** , May. 2021
+* **High School Diploma** , May. 2021
     - Nguyen Duy Hieu High School, Quang Nam province, Vietnam.
     - Member of the school's gifted Biology team.
     - The second prize at the provincial-level gifted student competition.
 <br><br/>
-- **Secondary School Diploma** , June. 2018
+* **Secondary School Diploma** , June. 2018
     - Tran Quy Cap Secondary School, Quang Nam province, Vietnam.
     - Member of the school's gifted Chemistry team.
     
 
 ## Research Interest
-- Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
-- Data Science, Machine Learning, Deep Learning.
-- Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
 
+* Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
+* Data Science, Machine Learning, Deep Learning.
+* Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
 
 ## Publications
 
 ### Journal Papers
+
 1. **Truong Minh Trieu**, Hoang Van Dung: [Skeleton-based multi-person action recognition towards real-world violence detection](https://doi.org/10.1016/j.engappai.2025.111987), Engineering Applications of Artificial Intelligence, 161, 111987. (SCIE Q1, Impact Factor 8.0, H-Index 149)
 
 ---
 
 ### Conference Papers
+
 2. **Truong Minh Trieu**, Hoang Van Dung, & Le Thi Minh Chau: [Skeleton-Based Posture estimation for human action recognition using deep learning](https://doi.org/10.1007/978-3-031-76197-3_8), in Proc. International Conference on Green Technology and Sustainable Development.
 3. **Truong Minh Trieu**, Hoang Van Dung, & Le Cong Hieu: [Automatic recognition and scoring system In military training applies modern deep learning techniques](https://doi.org/10.1007/978-3-032-01472-6_15), in Proc. EAI International Conference on Smart Objects and Technologies for Social Good.
-
 
 ## Scientific Awards  & Certificate
 
@@ -89,17 +91,16 @@ Year | Category | Award
 2024 | Certificate | Certificate of Presentation, International Conference on Green Technology and Sustainable Development
 2023 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
 
-
 ## Technical Skills
 
-- Areas: Data Science, Machine Learning, Deep Learning.
-- Specializations: Computer Vision, Image Processing, NLP.
-- Programming Languages: Python, Golang, SQL.
-- Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git.
-
+* Areas: Data Science, Machine Learning, Deep Learning.
+* Specializations: Computer Vision, Image Processing, NLP.
+* Programming Languages: Python, Golang, SQL.
+* Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git.
 
 ## Referees
-- Dr. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
+
+* Dr. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
     - Associate Professor, Vice Dean of Faculty of Information Technology.
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
     - Email: dunghv@hcmute.edu.vn
