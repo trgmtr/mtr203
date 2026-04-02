@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <!-- <img class="profile-picture" src="favicon.jpg"> -->
-<img class="profile-picture" src="mtr203.jpg">
+<img class="profile-picture" src="minhtrieu.jpg">
 
 Hi! My name is Truong Minh Trieu. I was born in 2003 in Dien Ban, Quang Nam Province (now Dien Ban Tay Commune, Da Nang City). 
 
