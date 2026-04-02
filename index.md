@@ -48,35 +48,15 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 
 ## Publications
+
 ### Journal Papers
-<div class="publications">
-  <!-- <h3 class="publication-category">Journal Papers</h3> -->
-  <div class="pub-grid">
-    <article class="pub-card">
-      <h4 class="pub-title"><a class="pub-link" href="https://doi.org/10.1016/j.engappai.2025.111987" target="_blank" rel="noopener">Skeleton-based multi-person action recognition towards real-world violence detection</a></h4>
-      <p class="pub-authors"><strong>Truong Minh Trieu</strong>, Hoang Van Dung</p>
-      <p class="pub-journal">Engineering Applications of Artificial Intelligence</p>
-      <p class="pub-meta">SCIE Q1 · Impact Factor 8.0 · H-Index 149 · 2025</p>
-    </article>
-  </div>
+1. **Truong Minh Trieu**, Hoang Van Dung: [Skeleton-based multi-person action recognition towards real-world violence detection](https://doi.org/10.1016/j.engappai.2025.111987), Engineering Applications of Artificial Intelligence. (SCIE Q1, Impact Factor 8.0, H-Index 149)
+
+---
 
 ### Conference Papers
-  <!-- <h3 class="publication-category">Conference Papers</h3> -->
-  <div class="pub-grid">
-    <article class="pub-card">
-      <h4 class="pub-title"><a class="pub-link" href="https://doi.org/10.1007/978-3-031-76197-3_8" target="_blank" rel="noopener">Skeleton-Based Posture estimation for human action recognition using deep learning</a></h4>
-      <p class="pub-authors"><strong>Truong Minh Trieu</strong>, Hoang Van Dung, Le Thi Minh Chau</p>
-      <p class="pub-journal">Proc. International Conference on Green Technology and Sustainable Development</p>
-      <p class="pub-meta">2025</p>
-    </article>
-    <article class="pub-card">
-      <h4 class="pub-title"><a class="pub-link" href="https://doi.org/10.1007/978-3-032-01472-6_15" target="_blank" rel="noopener">Automatic recognition and scoring system In military training applies modern deep learning techniques</a></h4>
-      <p class="pub-authors"><strong>Truong Minh Trieu</strong>, Hoang Van Dung, Le Cong Hieu</p>
-      <p class="pub-journal">Proc. EAI International Conference on Smart Objects and Technologies for Social Good</p>
-      <p class="pub-meta">2025</p>
-    </article>
-  </div>
-</div>
+2. **Truong Minh Trieu**, Hoang Van Dung, & Le Thi Minh Chau: [Skeleton-Based Posture estimation for human action recognition using deep learning](https://doi.org/10.1007/978-3-031-76197-3_8), in Proc. International Conference on Green Technology and Sustainable Development.
+3. **Truong Minh Trieu**, Hoang Van Dung, & Le Cong Hieu: [Automatic recognition and scoring system In military training applies modern deep learning techniques](https://doi.org/10.1007/978-3-032-01472-6_15), in Proc. EAI International Conference on Smart Objects and Technologies for Social Good.
 
 
 ## Scientific Awards  & Certificate
