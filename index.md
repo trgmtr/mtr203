@@ -33,7 +33,7 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 ## Education
 
 - **[Bachelor of Engineering (B.Eng.)](https://tracuuvanbang.hcmute.edu.vn/#/tra-cuu?maSv=21110326)**, Information Technology, Aug. 2025
-    - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
+    - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam. (One of the top public universities in engineering and technology in Southern Vietnam.)
     - **Admitted through early and priority admission.**
     - Degree classification: Distinction.
     - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
