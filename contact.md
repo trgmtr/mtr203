@@ -13,7 +13,7 @@ is_contact: true
 
 ### Address
 
-> 6032 Engineering Building II
+> 6132 Engineering Building II
 >
 > Dongguk University
 >

@@ -39,15 +39,16 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 ## Education
 - **Master’s and Ph.D Integrated student**, Computer Science and Engineering major, Mar. 2026 -
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
-    - **Scholarship Program of Dongguk University: **
-        - Scholarship for Research & Development (SRD Scholarship) for the Master's and Ph.D Integrated Program.
+    - **Scholarship Program of Dongguk University:**
+        - Scholarship for Research & Development for the Master's and Ph.D Integrated Program.
         - 100% of Tuition Fee (Including Entrance Fee).
         - Stipend (Living Expenses).
     - Supervisor: Associate Professor Chul Lee.
 <br><br/>
 
 - **[Bachelor of Engineering (B.Eng.)](https://tracuuvanbang.hcmute.edu.vn/#/tra-cuu?maSv=21110326)**, Information Technology, Aug. 2025
-    - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam. (One of the top public universities in engineering and technology in Southern Vietnam.)
+    - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
+        - *One of the top public universities in engineering and technology in Southern Vietnam.*
     - **Admitted through early and priority admission.**
     - Degree classification: Distinction.
     - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems.
@@ -87,7 +88,7 @@ Before that, I graduated from HCMC University of Technology and Education and wo
 
 Year | Category | Award
 -----|-------|--------
-2026 | Scholarship  | **Scholarship for Research & Development (SRD Scholarship)**
+2026 | Scholarship  | **Scholarship for Research & Development**
 2025 | Award  | **Best Thesis Award, High-Quality Program** (Overall score: 9.6/10)
 2025 | Award | **Outstanding Student in Scientific Research**
 2025 | Certificate | Certificate of Presentation, The RAVTE International Student Workshop
