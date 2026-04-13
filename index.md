@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+##
 
 ## About Me
 
@@ -34,8 +35,8 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 - **[Bachelor of Engineering (B.Eng.)](https://tracuuvanbang.hcmute.edu.vn/#/tra-cuu?maSv=21110326)**, Information Technology, Aug. 2025
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
-        - *One of the top public universities in engineering and technology in Southern Vietnam.*
-    - **Admitted through early and priority admission.**
+        - **One of the top public universities in engineering and technology in Southern Vietnam.**
+        - **Admitted through early and priority admission.**
     - Degree classification: Distinction.
     - Supervisor: Assoc. Prof. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
     - Thesis: Integration of Large Language Models with Machine Translation for Medical Question Answering Systems.
@@ -64,7 +65,7 @@ Hi! My name is Truong Minh Trieu. Currently, I am a Master's and Ph.D Integrated
 
 Year | Category | Award
 -----|-------|--------
-2026 | Scholarship  | **Scholarship for Research & Development**
+2026 | Scholarship  | **Scholarship for Research & Development (SRD Scholarship)**
 2025 | Award  | **Best Thesis Award, High-Quality Program** (Overall score: 9.6/10)
 2025 | Award | **Outstanding Student in Scientific Research**
 2025 | Certificate | Certificate of Presentation, The RAVTE International Student Workshop
