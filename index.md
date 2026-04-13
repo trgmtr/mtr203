@@ -1,10 +1,8 @@
 ---
 layout: default
-is_contact: true
 ---
-##
 
-## About Me
+## minh trieu t., dl researcher
 
 <img class="profile-picture" src="minhtrieu.jpg">
 

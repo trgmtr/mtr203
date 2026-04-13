@@ -1,9 +1,8 @@
 ---
 layout: default
 ---
-##
 
-## About Me
+## minh trieu t., dl researcher
 
 <!-- <img class="profile-picture" src="favicon.jpg"> -->
 <img class="profile-picture" src="minhtrieu.jpg">
