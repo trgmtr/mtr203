@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## minh trieu t., dl researcher
+### biography
 
 <!-- <img class="profile-picture" src="favicon.jpg"> -->
 <img class="profile-picture" src="minhtrieu.jpg">
@@ -13,7 +13,8 @@ Currently, I am a Master's and Ph.D Integrated student in Computer Science and E
 
 Before that, I graduated from HCMC University of Technology and Education and worked as a Data Scientist at FPT Telecom Hanoi.
 
-### Work Experience
+### work experience
+
 - **Master’s Researcher**, Mar. 2026 -
     - Computational Imaging Laboratory (CILab).
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
@@ -36,7 +37,8 @@ Before that, I graduated from HCMC University of Technology and Education and wo
     - Summary: Worked as a Full-Stack Software Engineer. Developed, maintained, and optimized backend systems, including APIs for both web platforms and mobile applications. Implemented user interfaces for web application pages based on design specifications.
 
 
-### Education
+### education
+
 - **Master’s and Ph.D Integrated student**, Computer Science and Engineering major, Mar. 2026 -
     - Department of Computer Science and Artificial Intelligence, Dongguk University, Seoul, Korea.
     - **Scholarship Program of Dongguk University:**
@@ -66,25 +68,26 @@ Before that, I graduated from HCMC University of Technology and Education and wo
     - Member of the school's gifted Chemistry team.
     
 
-### Research Interest
+### research interest
+
 - Mathematics for Machine Learning, Linear Algebra and Calculus for Deep Learning. 
 - Data Science, Machine Learning, Deep Learning.
 - Medical Image Processing, Medical Information Retrieval, Neural Machine Translation.
 
 
-### Publications
+### publications
 
-#### Journal Papers
+#### journal papers
 1. **Truong Minh Trieu**, Hoang Van Dung: [Skeleton-based multi-person action recognition towards real-world violence detection](https://doi.org/10.1016/j.engappai.2025.111987), Engineering Applications of Artificial Intelligence, (SCIE Q1, Impact Factor 8.0, H-Index 149), 2025.
 
 ---
 
-#### Conference Papers
+#### conference papers
 2. **Truong Minh Trieu**, Hoang Van Dung, & Le Thi Minh Chau: [Skeleton-Based Posture estimation for human action recognition using deep learning](https://doi.org/10.1007/978-3-031-76197-3_8), in Proc. International Conference on Green Technology and Sustainable Development, 2024.
 3. **Truong Minh Trieu**, Hoang Van Dung, & Le Cong Hieu: [Automatic recognition and scoring system In military training applies modern deep learning techniques](https://doi.org/10.1007/978-3-032-01472-6_15), in Proc. EAI International Conference on Smart Objects and Technologies for Social Good, 2024.
 
 
-### Scientific Awards  & Certificate
+### scientific awards & certificate
 
 Year | Category | Award
 -----|-------|--------
@@ -98,7 +101,7 @@ Year | Category | Award
 2023 | Certificate | Certificate of Participation, Euréka Scientific Research Student Award
 
 
-### Technical Skills
+### scientific awards & certificate
 
 - Areas: Data Science, Machine Learning, Deep Learning.
 - Specializations: Computer Vision, Image Processing, NLP.
@@ -106,7 +109,8 @@ Year | Category | Award
 - Frameworks & Tools: PyTorch, Pandas, NumPy, OpenCV, Git.
 
 
-### Referees
+### referees
+
 - Dr. [Van-Dung Hoang](https://scholar.google.com/citations?user=MeZq_d4AAAAJ&hl=vi&oi=ao)
     - Associate Professor, Vice Dean of Faculty of Information Technology.
     - HCMC University of Technology and Education, Ho Chi Minh city, Vietnam.
