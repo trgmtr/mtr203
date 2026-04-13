@@ -17,10 +17,10 @@ sass:
 
 nav:
  - name: "Biography"
-   link: "/biography"
+   link: "biography"
 #  - name: "Resume"
 #    link: "resume.pdf"
  - name: "Contact"
-   link: "/contact"
+   link: "contact"
 #  - name: "Blog"
 #    link: "https://ankitsultana.com/researcher/"
